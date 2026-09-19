@@ -59,9 +59,9 @@ export default function Contact() {
             <h3>Find me</h3>
             <p>Swap these placeholder links for your real profiles.</p>
             <div className="linklist">
-              <a href="mailto:your.email@example.com">✉ your.email@example.com</a>
-              <a href="#">in — linkedin.com/in/sohammaiti</a>
-              <a href="#">gh — github.com/sohammaiti</a>
+              <a href="sohammaiti770@gmail.com">✉ your.email@example.com</a>
+              <a href="linkedin.com/in/soham-maiti-689540355">in — linkedin.com/in/sohammaiti</a>
+              <a href="github.com/sohammaiti2005">gh — github.com/sohammaiti</a>
             </div>
           </div>
         </div>
